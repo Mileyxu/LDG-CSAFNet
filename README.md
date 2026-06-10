@@ -37,5 +37,5 @@ CUDA 10.2+ (optional, GPU recommended)
 🔧 Installation Steps
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/LDG-CSAFNe.git
-cd LDG-CSAFNe
+git clone https://github.com/yourusername/LDG-CSAFNet.git
+cd LDG-CSAFNet
